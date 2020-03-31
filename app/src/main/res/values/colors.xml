@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#6200EE</color>
-    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorPrimary">#3574fa</color>
+    <color name="colorPrimaryDark">#3574fa</color>
     <color name="colorAccent">#03DAC5</color>
     <color name="white">#dbdbdb</color>
     <color name="white_three">#eaeaea</color>
-    </resources>
+    <color name="light_primary_text_color">#666664</color>
+    <color name="light_accent_text_color">#4a90e2</color>
+    <color name="FABcolor">#5F0EEF</color>
+    <color name="tabsBackColor">#3574fa</color>
+    <color name="tabsTxtColor">#ffffff</color>
+</resources>
